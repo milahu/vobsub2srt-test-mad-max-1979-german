@@ -1,3 +1,6 @@
+NOTE the subtitles files `patrol-mad.max1.1080p.idx` and `patrol-mad.max1.1080p.sub` are protected by copyright,
+so this repo may be removed due to a DMCA takedown request at any time
+
 ```
 $ head -n13 *.tessdata-default.srt
 ==> patrol-mad.max1.1080p.lang-default.tessdata-default.srt <==
